@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules
 public
 .tmp
@@ -6,3 +7,20 @@ app/bower_components
 heroku
 /views
 dist
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+>>>>>>> 55770423b5f358ac039ab1b027ab4e13325bb42f
